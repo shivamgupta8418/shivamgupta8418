@@ -29,21 +29,16 @@
 ## 📲  Let's Connect
 <span style="font-size:18px;">I love connecting with fellow developers, tech enthusiasts, and industry professionals. If you have any questions, need assistance, or just want to have a friendly chat, feel free to reach out to me. I'm always open to engaging in discussions and new collaborations.</span>
 
-<a href="https://discord.com/users/934822509822476388">
-  <img width="70px" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Link 1">
-</a>
 
-<a href="https://wa.me/+919784102014">
+
+<a href="https://wa.me/+918418072379">
   <img width="70px" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="Link 2">
 </a>
 
-<a href="https://www.linkedin.com/in/shivamgupta8418/">
+<a href="https://www.linkedin.com/in/shivam-gupta-265902226/">
   <img width="70px" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Link 3">
 </a>
 
-<a href="https://twitter.com/shivamgupta8418">
-  <img width="70px" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Link 4">
-</a>
 
 
 ## 🌟 Explore My Work
@@ -100,10 +95,5 @@
 
 <br/>
 
-##  🤝 GitHub Contribution
 
-<img src="https://raw.githubusercontent.com/shivamgupta8418/shivamgupta8418/output/snake.svg" alt="Snake animation" />
-
-
-<br/>
 
