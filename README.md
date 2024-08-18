@@ -107,6 +107,3 @@
 
 <br/>
 
-##  👉 Click On The Below Image To View My Profile Summary For GitHub
-
-[<img alt="alt_text" src="https://i.imgur.com/zzJjcp7.png" />](https://profile-summary-for-github.com/user/shivamgupta8418)
