@@ -42,7 +42,7 @@
 
 
 ## 🌟 Explore My Work
-<span style="font-size:18px;">To see some of my projects and delve into my coding journey, visit my [Portfolio](https://spsanchore.vercel.app/). Your feedback and suggestions are highly appreciated, so please don't hesitate to share your thoughts.</span>
+<span style="font-size:18px;">To see some of my projects and delve into my coding journey, visit my [Portfolio](https://shivam-portfolio-alpha-one.vercel.app/). Your feedback and suggestions are highly appreciated, so please don't hesitate to share your thoughts.</span>
 
 ## 👯 Let's Grow Together
 <span style="font-size:18px;">I firmly believe that growth happens when we come together as a community. I'm eager to connect with new people, share knowledge, exchange ideas, and contribute to the vibrant developer ecosystem. Let's collaborate, inspire each other, and make a difference in the world of web development!</span>
